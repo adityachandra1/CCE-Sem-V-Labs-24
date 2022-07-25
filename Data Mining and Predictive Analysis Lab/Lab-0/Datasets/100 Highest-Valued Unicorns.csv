@@ -1,0 +1,101 @@
+Company;Valuation ($B) ;Country;State;City;Industries;Founded Year;Name of Founders;Total Funding;Number of Employees
+Bytedance;140,00 US$;China;Beijing;Beijing;Content, Data Mining, Internet;2012;Yiming Zhang;$7,440.00M;10.000
+SpaceX;100,30 US$;United States;California;Hawthorne;Aerospace, Manufacturing, Space Travel, Transportation;2002;Elon Musk;$383.02M;5,000-10,000
+Stripe;95,00 US$;United States;California;San Francisco;Finance, FinTech, Mobile Payments, SaaS;2010;John Collison, Patrick Collison;$300.00M;1,000-5,000
+Klarna;45,60 US$;Sweden;;Stockholm;E-Commerce, FinTech, Payments, Shopping;2005;Niklas Adalberth, Sebastian Siemiatkowski, Victor Jacobsson;$3,471.72M;5,000-10,000
+Epic Games;42,00 US$;United States;North Carolina;Cary;Developer Platform, Gaming, Software, Video Games;1991;Mark Rein, Tim Sweeney;$544.93M;1,000-5,000
+Canva;40,00 US$;Australia;New South Wales;Surry Hills;Graphic Design, Photo Editing, Publishing, Software, Web Design;2012;Cameron Adams, Cliff Obrecht, Melanie Perkins;$571.26M;500-1,000
+Checkout.com;40,00 US$;United Kingdom;England;London;E-Commerce, FinTech, Payments, Transaction Processing;2012;Guillaume Pousaz;$1,830.00M;1,000-5,000
+Instacart;39,00 US$;United States;California;San Francisco;Delivery Service, E-Commerce, Grocery, Shopping;2012;Apoorva Mehta, Brandon Leonardo, Max Mullen;$2,686.01M;5,000-10,000
+Databricks;38,00 US$;United States;California;San Francisco;Analytics, Artificial Intelligence, Information Technology, Machine Learning, Software;2013;Ali Ghodsi, Andy Konwinski, Ion Stoica, Matei Zaharia, Patrick Wendell, Reynold Xin, Scott Shenker;$557.15M;1,000-5,000
+Revolut;33,00 US$;United Kingdom;England;London;Banking, Financial Services, FinTech, Mobile Payments;2015;Nikolay Storonsky, Vlad Yatsenko;$1,715.98M;1,000-5,000
+FTX;32,00 US$;Bahamas;;;Cryptocurrency, Finance, Financial Exchanges, Financial Services, Trading Platform;2018;Gary Wang, Sam Bankman-Fried;$1,828.69M;100-250
+Chime;25,00 US$;United States;California;San Francisco;Banking, Debit Cards, Financial Services, FinTech;2013;Chris Britt, Ryan King;$3,396.75M;1,000-5,000
+BYJU's;21,00 US$;India;;Bengaluru;E-Learning, EdTech, Education, Higher Education, Software;2008;Byju Raveendran, Divya Gokulnath;$5,182.78M;1,000-5,000
+J&T Express;20,00 US$;Indonesia;;Jakarta;Courier Service, E-Commerce, Freight Service;2015;Jet Lee, Tony Chen;$4,653.00M;10.000
+Xiaohongshu;20,00 US$;China;Shanghai;Shanghai;E-Commerce, Mobile Apps, Shopping, Social;2013;Charlwin Mao Wenchao, Miranda Qu;$917.50M;1,000-5,000
+Fanatics;18,00 US$;United States;Florida;Jacksonville;Manufacturing, Retail, Sporting Goods, Sports;1995;Alan Trager, Michael G. Rubin, Mitch Trager;$1,170.29M;1,000-5,000
+Miro;17,50 US$;United States;California;San Francisco;B2B, Enterprise Applications, Enterprise Software, Product Management, UX Design;2011;Andrey Khusid, Oleg Shardin, Oleg Shardin;$355.00M;1,000-5,000
+Yuanfudao;15,50 US$;China;Beijing;Beijing;E-Learning, EdTech, Tutoring;2012;Ke Shuai, Xin Li, Yong Li;$4,044.20M;10.000
+Ripple;15,00 US$;United States;California;San Francisco;Blockchain, Cryptocurrency, FinTech, Internet, Payments;2012;Arthur Britto, Chris Larsen, Jed McCaleb, Ryan Fugger;$293.90M;500-1,000
+DJI Innovations;15,00 US$;China;Guangdong;Shenzhen;Aerospace, Consumer Electronics, Drones, Manufacturing, Photography, Wireless;2006;Frank Wang;$1,135.00M;10.000
+goPuff;15,00 US$;United States;Pennsylvania;Philadelphia;Delivery Service, E-Commerce, Food Delivery, Grocery, Mobile Apps;2013;Rafael Ilishayev, Yakir Gola;$290.88M;5,000-10,000
+SHEIN;15,00 US$;China;Guangdong;Shenzhen;Consumer, E-Commerce, Fashion, Marketplace, Textiles;2008;Xiaoqing Ren, Yang Pei, Yangtian Xu;$553.36M;1,000-5,000
+Yuanqi Senlin;15,00 US$;China;Beijing;Beijing;Food and Beverage;2016;Binsen Tang;$721.31M;5,000-10,000
+Plaid;13,40 US$;United States;California;San Francisco;Finance, Financial Services, FinTech;2012;William Hockey, Zachary Perret;$734.80M;500-1,000
+OpenSea;13,30 US$;United States;New York;New York;Blockchain, Cryptocurrency, Marketplace;2017;Alex Atallah, Devin Finzer;$425.12M;100-250
+Grammarly;13,00 US$;United States;California;San Francisco;Assistive Technology, Information Technology, Productivity Tools;2009;Alex Shevchenko, Dmytro Lider, Max Lytvyn;$400.00M;500-1,000
+Devoted Health;12,60 US$;United States;Minnesota;Saint Paul;Elder Care, Elderly, Health Care, Hospital;2017;Ed Park, Jeremy Delinsky, Todd Park;$1,968.95M;1,000-5,000
+Faire;12,40 US$;United States;California;San Francisco;E-Commerce, Marketplace, Retail, Retail Technology, Wholesale;2017;Daniele Perito, Jeffrey Kolovson, Lauren Cooks Levitan, Marcelo Cortes, Max Rhodes;$1,096.12M;500-1,000
+Brex;12,30 US$;United States;Utah;Draper;Banking, Credit Cards, Financial Services, FinTech;2017;Henrique Dubugras, Pedro Franceschi;$1,490.12M;500-1,000
+Biosplice Therapeutics;12,00 US$;United States;California;San Diego;Biotechnology, Health Care, Life Science;2008;Osman Kibar;$285.71M;50-100
+Bitmain Technologies;12,00 US$;China;Beijing;Beijing;Application Specific Integrated Circuit (ASIC), Bitcoin, Electronics, Manufacturing, Semiconductor;2013;Jihan Wu, Micree Zhan;$450.00M;100-250
+GoodLeap;12,00 US$;United States;California;Roseville;Lending, Renewable Energy;2003;Hayes Barnard;$1,800.00M;1,000-5,000
+JUUL Labs;12,00 US$;United States;California;San Francisco;B2C, Consumer Electronics, Consumer Goods, Leisure, Lifestyle;2015;Adam Bowen, James Monsees, Kevin Burns, Tim Danaher;$15,371.68M;1,000-5,000
+Airtable;11,70 US$;United States;California;San Francisco;Collaboration, Database, Developer Tools, SaaS;2013;Andrew Ofstad, Emmett Nicholas, Howie Liu;$2,236.60M;250-500
+ZongMu Technology;11,40 US$;China;Shanghai;Shanghai;Automotive, Autonomous Vehicles, Robotics;2013;Rui Tang;$210.83M;10-50
+Global Switch;11,10 US$;United Kingdom;England;London;Data Center, Real Estate, Wholesale;1998;Andy Ruhan;$6,254.75M;250-500
+Bolt;11,00 US$;United States;California;San Francisco;E-Commerce, Fraud Detection, Mobile Payments, Payments;2014;Eric Feldman, Ryan Breslow;$963.00M;500-1,000
+Celonis;11,00 US$;Germany;;Munich;Analytics, Business Intelligence, SaaS, Software;2011;Alexander Rinke, Bastian Nominacher, Martin Klenk;$1,367.50M;1,000-5,000
+Weilong;10,88 US$;China;Henan;Luohe;Food and Beverage, Manufacturing, Snack Food;1999;Liu Fuping, Liu Weiping;$559.74M;No Data
+Swiggy;10,70 US$;India;;Bengaluru;E-Commerce Platforms, Food Delivery, Mobile Apps;2014;Nandan Reddy, Phani Kishan Addepalli, Rahul Jaimini, Sriharsha Majety;$3,571.00M;10.000
+Figma;10,00 US$;United States;California;San Francisco;Developer Tools, Graphic Design, Software, UX Design, Web Design;2012;Dylan Field, Evan Wallace;$333.50M;250-500
+Talkdesk;10,00 US$;United States;California;San Francisco;Cloud Computing, CRM, Customer Service, SaaS;2011;Cristina Fonseca, Tiago Paiva;$504.77M;1,000-5,000
+Digital Currency Group;10,00 US$;United States;New York;New York;Bitcoin, Blockchain, Financial Services, Venture Capital;2015;Barry Silbert;$600.00M;50-100
+Gusto;10,00 US$;United States;California;San Francisco;Employee Benefits, Enterprise Software, Financial Services, FinTech, Human Resources, SaaS;2011;Edward Kim, Joshua Reeves, Tomer London;$930.83M;1,000-5,000
+Lalamove;10,00 US$;Hong Kong;;Cheung Sha Wan;Apps, Delivery, Logistics, Supply Chain Management, Transportation;2013;Chow Shing Yuk, Gary Hui, Santit Jirawongkraisorn;$2,475.00M;500-1,000
+Notion Labs;10,00 US$;United States;California;San Francisco;Apps, Collaboration, Product Management, Real Time, Software;2016;Ivan Zhao, Simon Last;$342.00M;250-500
+reddit;10,00 US$;United States;California;San Francisco;Content, News, Social Bookmarking, Social Media, Social Network;2005;Aaron Swartz, Alexis Ohanian, Steve Huffman;$1,487.23M;500-1,000
+Thrasio;10,00 US$;United States;Massachusetts;Walpole;Brand Marketing, Consumer Goods, E-Commerce;2018;Carlos Cashman, Joshua Silberstein;$3,396.46M;1,000-5,000
+OYO Rooms;9,60 US$;India;;Gurugram;Hospitality, Travel, Travel Accommodations;2012;Ritesh Agarwal;$3,113.68M;5,000-10,000
+OutSystems;9,50 US$;United States;Massachusetts;Boston;Data Integration, Developer Platform, Developer Tools, PaaS, SaaS, Software;2001;Paulo Rosado, Rui Pereira;$208.00M;1,000-5,000
+ServiceTitan;9,50 US$;United States;California;Glendale;CRM, Home Services, Information Technology, SaaS;2012;Ara Mahdessian, Vahe Kuzoyan;$1,098.84M;1,000-5,000
+HEYTEA;9,28 US$;China;Guangdong;Shenzhen;Food and Beverage, Tea;2012;Yunqi Nie;$579.23M;1,000-5,000
+N26;9,23 US$;Germany;;Berlin;Banking, Finance, Financial Services, FinTech;2013;Maximilian Tayenthal, Valentin Stalf;$1,722.36M;1,000-5,000
+Klaviyo;9,20 US$;United States;Massachusetts;Boston;Advertising, Analytics, E-Commerce, Marketing, Marketing Automation, Software;2012;Andrew Bialecki, Ed Hallen;$678.50M;500-1,000
+Northvolt;9,08 US$;Sweden;;Stockholm;Battery, Clean Energy, CleanTech, Electronics, Manufacturing;2016;Paolo Cerruti, Peter Carlsson;$6,162.15M;1,000-5,000
+Chehaoduo;9,00 US$;China;Beijing;Beijing;Automotive, E-Commerce, Online Auctions;2015;Mark Yang;$696.76M;10.000
+Niantic;9,00 US$;United States;California;San Francisco;Augmented Reality, Software, Video Games, Virtual Reality;2015;John Hanke, Phil Keslin;$770.00M;500-1,000
+Tanium;9,00 US$;United States;Washington;Kirkland;Cyber Security, Enterprise Software, Information Technology, SaaS, Security;2007;David Hindawi, Orion Hindawi;$4,376.50M;1,000-5,000
+Rapyd;8,75 US$;United Kingdom;England;London;Financial Services, FinTech, Mobile Payments, Payments;2016;Arik Shtilman, Arkady Karpman, Omer Priel;$775.00M;250-500
+Kavak;8,70 US$;Mexico;;Lerma de Villada;Automotive, E-Commerce, E-Commerce Platforms, Online Portals;2016;Carlos Julio Garcia, Roger Laughlin;$1,188.00M;1,000-5,000
+Nuro;8,60 US$;United States;California;Mountain View;Autonomous Vehicles, Fleet Management, Information Technology, Robotics, Transportation;2016;Dave Ferguson, Jiajun Zhu;$2,132.00M;1,000-5,000
+Snyk;8,60 US$;United States;Massachusetts;Boston;Cyber Security, Internet, Security, Software;2015;Assaf Hefetz, Danny Grander, Guy Podjarny, Jacob Tarango;$1,026.09M;500-1,000
+Bolt;8,40 US$;Estonia;;Tallinn;Car Sharing, Electric Vehicle, Food Delivery, Grocery, Last Mile Transportation, Mobile Apps, Public Transportation, Ride Sharing, Transportation;2013;Markus Villig, Martin Villig, Oliver Leisalu;$1,970.53M;1,000-5,000
+Tipalti;8,30 US$;United States;California;San Mateo;Accounting, Financial Services, FinTech, Payments, Software;2010;Chen Amit, Oren Zeev;$502.50M;500-1,000
+Lacework;8,30 US$;United States;California;San Jose;Cloud Security, Compliance, Cyber Security, Developer Tools;2015;Mike Speiser, Sanjay Kalra, Vikram Kapoor;$1,906.70M;500-1,000
+Tempus;8,10 US$;United States;Illinois;Chicago;Artificial Intelligence, Biotechnology, Health Care, Machine Learning, Medical;2015;Eric Lefkofsky;$1,070.00M;1,000-5,000
+Fireblocks;8,00 US$;United States;New York;New York;Blockchain, Cryptocurrency, Cyber Security;2018;Idan Ofrat, Michael Shaulov, Pavel Berengoltz;$1,039.00M;100-250
+Dream11;8,00 US$;India;;Mumbai;Fantasy Sports, Information Technology, Sports;2007;Bhavit Sheth, Harsh Jain;$1,165.08M;500-1,000
+Xingsheng Selected;8,00 US$;China;Hunan;Changsha;E-Commerce, Food and Beverage, Grocery, Retail, Shopping;2009;Lihua Yue;$5,040.00M;10.000
+Caris Life Sciences;7,83 US$;United States;Texas;Irving;Biotechnology, Health Care, Health Diagnostics, Medical;1996;David D. Halbert;$1,314.49M;1,000-5,000
+Hopin;7,75 US$;United Kingdom;England;London;Events, Meeting Software, Video Conferencing;2019;Johnny Boufarhat;$1,021.73M;500-1,000
+Dapper Labs;7,60 US$;Canada;British Columbia;Vancouver;Blockchain, Gaming, Software;2018;Dieter Shirley, Mack Flavelle, Roham Gharegozlou;$665.07M;100-250
+Getir;7,50 US$;Turkey;;Istanbul;Delivery Service, E-Commerce, Logistics, Mobile Apps;2015;Arkady Volozh, Mert Salur, Nazım Salur, Serkan Borançılı, Tuncay Tütek;$1,172.00M;1,000-5,000
+Razorpay;7,50 US$;India;;Bengaluru;Finance, Financial Services, FinTech, Payments;2013;Harshil Mathur, Shashank Kumar;$741.62M;1,000-5,000
+Netskope;7,50 US$;United States;California;Santa Clara;Cloud Security, Cyber Security, Enterprise Software, Software;2012;Krishna Narayanaswamy, Lebin Cheng, Ravi Ithal, Sanjay Beri;$1,040.10M;1,000-5,000
+Ola Cabs;7,50 US$;India;;Bengaluru;Apps, Mobile, Ride Sharing, Transportation;2011;Ankit Bhati, Bhavish Aggarwal;$5,008.30M;5,000-10,000
+Carta;7,40 US$;United States;California;San Francisco;Finance, FinTech, Software, Stock Exchanges;2012;Henry Ward, Manu Kumar;$1,157.80M;1,000-5,000
+Toss;7,40 US$;South Korea;;Seoul;Financial Services, FinTech, Mobile Apps, Mobile Payments, Personal Finance;2013;Seunggun Lee;$844.20M;500-1,000
+Scale AI;7,30 US$;United States;California;San Francisco;Artificial Intelligence, Image Recognition, Machine Learning, SaaS;2016;Alexandr Wang, Lucy Guo;$602.82M;250-500
+TripActions;7,25 US$;United States;California;Palo Alto;Business Travel, Customer Service, Payments, Software;2015;Ariel Cohen, Ilan Twig;$1,040.48M;1,000-5,000
+Argo AI;7,25 US$;United States;Pennsylvania;Pittsburgh;Artificial Intelligence, Autonomous Vehicles, Robotics, Transportation;2016;Bryan Salesky, Peter Rander;$500.00M;1,000-5,000
+Gong;7,25 US$;United States;California;Palo Alto;Artificial Intelligence, CRM, Enterprise Software, Information Technology, Machine Learning, Sales, Software;2015;Amit Bendov, Eilon Reshef;$583.00M;500-1,000
+Gemini;7,10 US$;United States;New York;New York;Cryptocurrency, Finance, Financial Services, FinTech;2015;Cameron Winklevoss, Tyler Winklevoss;$400.00M;500-1,000
+Discord;7,00 US$;United States;California;San Francisco;Communities, Messaging, Social Network, Software, Video Chat;2012;Jason Citron, Stanislav Vishnevskiy;$979.30M;500-1,000
+We Doctor;7,00 US$;China;Zhejiang;Hangzhou;Health Care, Hospitality, Internet, Medical;2010;Liao Jieyuan;$1,786.00M;1,000-5,000
+1Password;6,80 US$;Canada;Ontario;Toronto;Cyber Security, Network Security, Privacy, Software;2005;Dave Teare, Natalia Karimov, Roustem Karimov, Sara Teare;$920.14M;250-500
+Automation Anywhere;6,80 US$;United States;California;San Jose;Artificial Intelligence, Enterprise Software, Machine Learning, SaaS, Software;2003;Ankur Kothari, Mihir Shukla, Neeti Mehta, Rushabh Parmani;$840.00M;1,000-5,000
+Ziroom;6,60 US$;China;Beijing;Beijing;Real Estate, Rental, Rental Property;2011;Lin Xiong;$2,121.00M;10.000
+National Stock Exchange of India;6,50 US$;India;;Mumbai;Financial Services, FinTech, Stock Exchanges;1992;Mukesh Agarwal;$149.50M;250-500
+Mollie;6,50 US$;Netherlands;;Amsterdam;E-Commerce, Financial Services, FinTech, Mobile Payments;2004;Adriaan Mol;$934.32M;250-500
+Rippling;6,50 US$;United States;California;San Francisco;Employment, Human Resources, Information Technology, IT Management, Productivity Tools;2017;Parker Conrad, Prasanna Sankar;$447.12M;500-1,000
+DataRobot;6,30 US$;United States;Massachusetts;Boston;Artificial Intelligence, Enterprise Software, Machine Learning, SaaS;2012;Jeremy Achin, Thomas DeGodoy;$1,089.37M;1,000-5,000
+Personio;6,30 US$;Germany;;Munich;Employment, Human Resources, Recruiting, SaaS;2015;Arseniy Vershinin, Hanno Renner, Ignaz Forstmeier, Ignaz Forstmeier, Roman Schumacher;$524.83M;500-1,000
+Upgrade;6,28 US$;United States;California;San Francisco;Banking, Credit, Financial Services, FinTech, Mobile;2016;Adelina Grozdanova, Jeff Bogan, Matt Wierman, Renaud Laplanche, Soul Htite, Visar Nimani;$562.50M;250-500
+Hinge Health;6,20 US$;United States;California;San Francisco;Health Care, Medical, Therapeutics, Wearables;2015;Daniel Perez, Gabriel Mecklenburg;$853.85M;1,000-5,000
+Benchling;6,10 US$;United States;California;San Francisco;Biotechnology, Life Science, Software;2012;Ashutosh Singhal, Cory Li, Sajith Wickramasekara;$412.00M;500-1,000
+Black Unicorn Factory;6,10 US$;United States;California;Los Angeles;;2020;Johnny Stewart;$645M;No Data
+Better.com;6,00 US$;United States;New York;New York;Consumer Lending, Financial Services, FinTech, Lending, Real Estate;2016;Eric Wilson, Erik Bernhardsson, Shawn Low, Viral Shah, Vishal Garg;$1,655.00M;5,000-10,000
+Wiz;6,00 US$;Israel;;Tel Aviv;Cloud Security, Cyber Security, Enterprise Software, Security;2020;Ami Luttwak, Assaf Rappaport, Roy Reznik, Yinon Costica;$600.00M;100-250
+iCapital Network;6,00 US$;United States;New York;New York;Asset Management, Banking, Financial Services, FinTech;2013;Dan Vene, John Robertshaw, Nick Veronis, Phil Pool;$181.50M;250-500
