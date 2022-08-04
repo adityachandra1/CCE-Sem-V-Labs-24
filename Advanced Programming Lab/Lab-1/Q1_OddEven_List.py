@@ -1,6 +1,6 @@
 #taking input
-l1 = [int(l1) for l1 in input("Enter elements in List 1\n").split()]
-l2 = [int(l2) for l2 in input("Enter elements in List 2\n").split()]
+l1 = list(map(int, input("Enter elements in the list 1: ").split()))
+l2 = list(map(int, input("Enter elements in the list 2: ").split()))
 l3 = []
 
 for elem in l1:
