@@ -1,85 +1,70 @@
-#include<string.h>
-#include<unistd.h>
-#include<sys/socket.h>
-#include<sys/types.h>
-#include<netinet/in.h>
-#include<stdlib.h>
-#include<stdio.h>
+#include <netinet/in.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <sys/socket.h>
+#include <sys/types.h>
 
-int main()
-{
-	int s,r,recb,sntb,x;
-	int ca;
-	printf("INPUT port number: ");
-	scanf("%d", &x);
+#define MAX 100
+
+int main() {
+	struct sockaddr_in serv_addr, cli_addr;
+    int sockfd, r, recb, sntb;
+    int PORT;
+    printf("Input PORT: ");
+    scanf("%d", &PORT);
+    char buffer[100];
+
+    sockfd = socket(AF_INET, SOCK_DGRAM, 0);
+    sockfd < 0 ? perror("Error while creating socket\n") : printf("Socket Created!\n");
+
+    serv_addr.sin_family = AF_INET;
+    serv_addr.sin_port = htons(PORT);
+    serv_addr.sin_addr.s_addr = htonl(INADDR_ANY);
+
 	socklen_t len;
-	struct sockaddr_in server,client;
-	char buff[50];
+	int ca;
+    len = sizeof(cli_addr);
+    ca = sizeof(cli_addr);
 
-	s=socket(AF_INET,SOCK_DGRAM,0);
-	if(s==-1)
-	{
-		printf("\nSocket creation error.");
-		exit(0);
-	}
-	printf("\nSocket created.");
+	bind(sockfd, (struct sockaddr *)&serv_addr, sizeof(serv_addr)) < 0 ? perror("Error while binding\n") : printf("Binding Successful\n");
 
-	server.sin_family=AF_INET;
-	server.sin_port=htons(x);
-	server.sin_addr.s_addr=htonl(INADDR_ANY);
-	len=sizeof(client);
-	ca=sizeof(client);
+    while (1) {
+        recvfrom(sockfd, buffer, sizeof(buffer), 0, (struct sockaddr*)&cli_addr, &ca) < 0? perror("Not Received\n") : prin
+        if (recb == -1) {
+            printf("\nMessage Recieving Failed");
+            close(sockfd);
+            exit(0);
+        }
+        printf("\nMessage Recieved: ");
+        printf("%sockfd\n", buffer);
+        if (!strcmp(buffer, "halt"))
+            break;
 
-	r=bind(s,(struct sockaddr*)&server,sizeof(server));
-	if(r==-1)
-		{
-		printf("\nBinding error.");
-		exit(0);
-	}
-	printf("\nSocket binded.");
-while(1){
+        char buff2[50];
+        strcpy(buff2, buffer);
+        buffer[1] = strlen(buff2);
+        int n = 0;
+        for (int i = 0; i < buffer[1]; i++)
+            if (buff2[i] == 'a' || buff2[i] == 'e' || buff2[i] == 'o' || buff2[i] == 'i' || buff2[i] == 'u')
+                n++;
+        buffer[2] = n;
+        buffer[0] = 1;
+        for (int i = 0; i < buffer[1] / 2; i++) {
+            if (buff2[i] != buff2[buffer[1] - i - 1]) {
+                buffer[0] = 0;
+                break;
+            }
+        }
+        sntb = sendto(sockfd, buffer, sizeof(buffer), 0, (struct sockaddr*)&cli_addr, len);
+        if (sntb == -1) {
+            printf("\nMessage Sending Failed");
+            close(sockfd);
+            exit(0);
+        }
 
-	recb=recvfrom(s,buff,sizeof(buff),0,(struct sockaddr*)&client,&ca);
-	if(recb==-1)
-	{
-		printf("\nMessage Recieving Failed");		
-		close(s);
-		exit(0);
-	}	
-	printf("\nMessage Recieved: ");
-	printf("%s\n", buff);
-	if(!strcmp(buff,"halt"))
-		break;
-	
-
-	char buff2[50];
-	strcpy(buff2,buff);
-	buff[1]=strlen(buff2);
-	int n=0;
-	for(int i=0;i<buff[1];i++)
-		if(buff2[i]=='a'||buff2[i]=='e'||buff2[i]=='o'||buff2[i]=='i'||buff2[i]=='u')
-			n++;
-	buff[2]=n;
-	buff[0]=1;
-	for(int i=0;i<buff[1]/2;i++)
-	{
-		if(buff2[i]!=buff2[buff[1]-i-1])
-		{
-			buff[0]=0;
-			break;
-		}
-	}
-	sntb=sendto(s,buff,sizeof(buff),0,(struct sockaddr*)&client,len);
-	if(sntb==-1)
-	{
-		printf("\nMessage Sending Failed");
-		close(s);
-		exit(0);
-	}
-	
-	if(!strcmp(buff,"halt"))
-		break;
-
-}
-	close(s);
+        if (!strcmp(buffer, "halt"))
+            break;
+    }
+    close(sockfd);
 }
