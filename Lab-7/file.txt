@@ -1,6 +1,0 @@
-Aditya Chandra
-MIT Manipal
-Advanced Programming Lab is fun
-this is the fourth line in the file
-but C++ is better than python 
-ok bye
